@@ -1,8 +1,9 @@
-package keveres;
+package feladatok;
 
 public class Keveres {
     
     public static void main(String[] args) {
+        
         final int M =9;
         char[] betuk =new char [M];
         
